@@ -1,2 +1,3 @@
 # Smart-Traffic-Light-Controller-Verilog-FSM-Design-Verification-
 Verilog-based FSM traffic light controller with pedestrian request handling and self-checking verification.
+This project implements a Smart Traffic Light Controller in Verilog HDL based on a Finite State Machine (FSM) architecture. The controller manages traffic signals for a main road, a side road, and a pedestrian crossing while ensuring safe and efficient traffic flow. The system supports vehicle detection, pedestrian requests, timed state transitions, and verification using a self-checking testbench. The project demonstrates digital system design, RTL implementation, FSM development, and hardware verification techniques.
