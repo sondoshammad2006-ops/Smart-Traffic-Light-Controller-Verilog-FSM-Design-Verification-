@@ -1,0 +1,54 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="LOCAL___98e3606939382519c700">advancedsimu.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/tb_compare/clk</signal>
+        <signal>/tb_compare/rst</signal>
+        <signal>/tb_compare/VS</signal>
+        <signal>/tb_compare/PB</signal>
+        <signal>/tb_compare/rtl_light_main</signal>
+        <signal>/tb_compare/rtl_light_side</signal>
+        <signal>/tb_compare/rtl_walk</signal>
+        <signal>/tb_compare/ref_light_main</signal>
+        <signal>/tb_compare/ref_light_side</signal>
+        <signal>/tb_compare/ref_walk</signal>
+        <signal>/tb_compare/t</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="1279032" end_time="1327839" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="1380441" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
